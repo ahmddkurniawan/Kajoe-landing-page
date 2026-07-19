@@ -1,0 +1,6 @@
+{
+  "name": "Kajoe Landing Page",
+  "description": "Landing page responsif, bersih, dan modern untuk Kajoe Minyak Kayu Putih Asli.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
